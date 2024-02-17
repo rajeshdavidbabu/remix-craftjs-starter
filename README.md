@@ -1,6 +1,6 @@
-# Welcome to Remix!
+# Remix Craft.js Starter
 
-- [Remix Docs](https://remix.run/docs)
+- A simple application to generate code from a drag-drop website builder tool
 
 ## Development
 
